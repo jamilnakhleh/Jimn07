@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jamil H.Nakhleh. I'm Building tools in various reports for interfaces, websites, etc..
 - 👀 I’m interested in Code, Writing, Books, Podcasts & more!
-- 🌱 I’m currently learning C# deeply using developing many projects.
+- 🌱 I’m currently learning C# deeply by developing many projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via Linkedin https://www.linkedin.com/in/jamil-nakhleh/
                            Blog : https://jamilnakhleh.blogspot.com/
